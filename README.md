@@ -45,14 +45,11 @@ The **Indian Startup Funding Dashboard** is a data-driven project designed to an
    Ensure your startup funding dataset (CSV/Excel) is placed in the project directory or update the script with the correct path.
 
 2. **Run the dashboard:**
-   - If using **Streamlit**:
+   - **Streamlit**:
      ```bash
      streamlit run app.py
      ```
-   - If using **Dash**, run:
-     ```bash
-     python app.py
-     ```
+ 
 
 3. **Interact with the dashboard:**  
    Open the provided local URL in your browser and explore the visualizations.
